@@ -11,7 +11,9 @@ Square the value of every digit then combine terms: 13 -> 1^2 + 3^2 = 1 + 9 = 10
 
 Repeat the process with the new number: 10 -> 1^2 + 0^2 = 1 + 0 = 1 
 
-The sequence repeats until it ends at 1. 
+The sequence repeats until it ends at 1.  
+
+The given number at the first iteration, 13, is considered a happy number. 
 
 A constraint of 20 iterations was added to prevent infinite loops in order for it to determine that it is an unhappy number. 
 ____________________________________________________________________________________________________________________________
