@@ -1,5 +1,7 @@
 # Happy Number SASM
 
+Third Term Project | Sophomore Year
+
 Note: Run this through CLI or Command Prompt. 
 
 ____________________________________________________________________________________________________________________________
